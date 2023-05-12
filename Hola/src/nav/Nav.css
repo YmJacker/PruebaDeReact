@@ -1,0 +1,15 @@
+
+
+
+
+.navegador{
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    position: sticky;
+    bottom: 10px;
+
+    z-index: 11052023;
+}

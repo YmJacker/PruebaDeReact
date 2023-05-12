@@ -1,0 +1,15 @@
+
+
+.anyadir{
+    width: 80vw;
+    padding: 1rem;
+    border-radius: 1rem;    
+    transition: all 1s;
+}
+
+.escogerPokemon{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
